@@ -855,6 +855,19 @@ section {
   box-shadow: 0px 0 35px 0 rgba(0, 0, 0, 0.08);
 }
 
+
+.services .iconbox-teal i {
+  color: #11dbcf;
+}
+
+.services .iconbox-teal:hover .icon i {
+  color: #fff;
+}
+
+.services .iconbox-teal:hover .icon path {
+  fill: #11dbcf;
+}
+
 .services .iconbox-blue i {
   color: #47aeff;
 }
@@ -867,16 +880,28 @@ section {
   fill: #47aeff;
 }
 
-.services .iconbox-orange i {
-  color: #ffbb2c;
+.services .iconbox-dark-blue i {
+  color: #0563bb;
 }
 
-.services .iconbox-orange:hover .icon i {
+.services .iconbox-dark-blue:hover .icon i {
   color: #fff;
 }
 
-.services .iconbox-orange:hover .icon path {
-  fill: #ffbb2c;
+.services .iconbox-dark-blue:hover .icon path {
+  fill: #0563bb;
+}
+
+.services .iconbox-purple i {
+  color: #ad04db;
+}
+
+.services .iconbox-purple:hover .icon i {
+  color: #fff;
+}
+
+.services .iconbox-purple:hover .icon path {
+  fill: #ad04db;
 }
 
 .services .iconbox-pink i {
@@ -892,7 +917,7 @@ section {
 }
 
 .services .iconbox-yellow i {
-  color: #ad04db;
+  color: #f5d50a;
 }
 
 .services .iconbox-yellow:hover .icon i {
@@ -900,11 +925,23 @@ section {
 }
 
 .services .iconbox-yellow:hover .icon path {
-  fill: #ad04db;
+  fill: #f5d50a;
+}
+
+.services .iconbox-orange i {
+  color: #ffbb2c;
+}
+
+.services .iconbox-orange:hover .icon i {
+  color: #fff;
+}
+
+.services .iconbox-orange:hover .icon path {
+  fill: #ffbb2c;
 }
 
 .services .iconbox-red i {
-  color: #0563bb;
+  color: #f5120a;
 }
 
 .services .iconbox-red:hover .icon i {
@@ -912,20 +949,9 @@ section {
 }
 
 .services .iconbox-red:hover .icon path {
-  fill: #0563bb;
+  fill: #f5120a;
 }
 
-.services .iconbox-teal i {
-  color: #11dbcf;
-}
-
-.services .iconbox-teal:hover .icon i {
-  color: #fff;
-}
-
-.services .iconbox-teal:hover .icon path {
-  fill: #11dbcf;
-}
 
 /*--------------------------------------------------------------
 # Testimonials
